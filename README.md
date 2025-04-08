@@ -1,4 +1,4 @@
-# Dashboard-Financa
+# Dashboard-Finança
 
 Esse é um projeto acadêmico simples de um dashboar de finança feito totalmente em python.
 
